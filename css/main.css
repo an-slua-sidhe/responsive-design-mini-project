@@ -1,5 +1,10 @@
-.container {
-    
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #e84610;
+    padding: 15px 25px;
 }
 
 @media (min-width: 778px) {
